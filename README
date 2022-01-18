@@ -1,0 +1,5 @@
+Use python virtual environments
+
+$ python3 -m venv .venv
+$ source .venv/activate
+# ./test.py
