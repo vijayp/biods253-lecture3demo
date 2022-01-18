@@ -1,5 +1,6 @@
 Use python virtual environments
 
 $ python3 -m venv .venv
-$ source .venv/activate
-# ./test.py
+$ source .venv/bin/activate
+$ pip3 install -r requirements.txt
+$ ./test.py
